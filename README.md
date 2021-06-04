@@ -44,4 +44,11 @@ I think both learning and playing are important. ✨
   <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>&nbsp
 </p><br>
 
+<p align="center">
+  
+![Ianlee92's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianlee92&show_icons=true&theme=cobalt) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianlee92&layout=compact&theme=dracula)](https://github.com/ianlee92)
+
+
+</p>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
