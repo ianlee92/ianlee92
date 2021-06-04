@@ -1,10 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ian's%20github&fontSize=90)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/이안의 평일코딩-248BFB?style=flat-square&logo=Storyblok&logoColor=white&link=https://iancoding.tistory.com/">&nbsp
-  <img src="https://img.shields.io/badge/proyong@kakao.com-FFCD00?style=flat-square&logo=Kakao&logoColor=black&link=proyong@kakao.com">&nbsp
-  <img src="https://img.shields.io/badge/dghyeok@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=dghyeok@gmail.com">&nbsp
-</p>
 <h3 align="center"> 👋 Hi! there~ 👋 </h3>
 <p align="center">
 I'm Ian here, a junior Front-end developer using React. 🌱<br>
