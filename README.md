@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=ian's%20github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ian's%20github&fontSize=90)
 
 <p align="center">
   <img src="https://img.shields.io/badge/이안의 평일코딩-248BFB?style=flat-square&logo=Storyblok&logoColor=white&link=https://iancoding.tistory.com/">&nbsp
@@ -50,4 +50,4 @@ I think both learning and playing are important. ✨
   <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>&nbsp
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=random&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
