@@ -46,8 +46,7 @@ I think both learning and playing are important. ✨
 
 <p align="center">
   
-![Ianlee92's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianlee92&show_icons=true&theme=cobalt) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianlee92&layout=compact&theme=dracula)](https://github.com/ianlee92)
-
+![Ianlee92's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianlee92&show_icons=true&theme=tokyonight)
 
 </p>
 
