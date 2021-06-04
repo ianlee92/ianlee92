@@ -42,12 +42,6 @@ I think both learning and playing are important. ✨
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
   <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>&nbsp
-</p><br>
-
-<p align="center">
-  
-![Ianlee92's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianlee92&show_icons=true&theme=tokyonight)
-
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
